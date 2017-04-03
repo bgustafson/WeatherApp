@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="button_label">Get Weather</string>
+    <string name="hint">90210</string>
+    <string name="hi">High: </string>
+    <string name="lo">Low: </string>
+
+    <string name="api_key">9ae7c1506c8ae6ad97207c9ed04ba2da</string>
+</resources>
